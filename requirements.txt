@@ -1,0 +1,11 @@
+sentence-transformers
+langchain
+langchain-community
+langchain-google-genai
+langchain-classic
+google-generativeai
+faiss-cpu
+PyPDF2
+langchain-text-splitters
+langchain-core
+torch

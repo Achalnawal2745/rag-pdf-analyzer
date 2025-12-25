@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Environment variables
+.env
+
+# FAISS Vector Store
+faiss_index/
+faiss_index.pkl
+faiss_index.faiss
+documents_metadata.pkl
+
+# Temporary files
+temp_*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
